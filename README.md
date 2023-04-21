@@ -1,2 +1,1 @@
-# emociciones-atraves-de-los-emojis
-emojis
+# EMOCIÓN-A-EMOJI
